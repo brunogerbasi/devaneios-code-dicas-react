@@ -1,2 +1,3 @@
-# devaneios-code-dicas-react
-Exemplos e exercícios rápidos de React JS com tutoriais.
+## Devaneios Code Dicas rápidas React JS
+
+# Exemplos e exercícios rápidos de React JS com tutoriais.
